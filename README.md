@@ -1,0 +1,2 @@
+# Spider-for-Taobao-Searching
+通过selenium驱动chrome headless模式，来爬去淘宝页面内的商品基本信息。
